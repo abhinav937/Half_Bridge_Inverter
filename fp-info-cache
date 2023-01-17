@@ -1,4 +1,4 @@
-20596735387250645
+20598409336713972
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86463,6 +86463,13 @@ QFN40P700X700X90-57N
 0
 57
 57
+footprint
+RESC10052X50N
+WSLP3921
+Resistor
+0
+2
+2
 footprint
 SON50P300X200X60-9N
 USON 2x3x0.6-mm
