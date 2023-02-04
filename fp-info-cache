@@ -1,4 +1,4 @@
-20905777246124946
+20909126305335419
 2EDF7275KXUMA1
 2EDF7275KXUMA1
 2EDF7275KXUMA1-5
@@ -2397,6 +2397,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CGA9P4X7T2W105K250KA
+CAPC5750X280N
+CG9A
+Capacitor
 0
 2
 2
@@ -52492,6 +52499,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESMR451VSN221MQ30S
+CAPPRD1000W180D2590H3250
+25.4*30
+Capacitor Polarised
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters

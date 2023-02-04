@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LS05-13B05R3
+D AC DC CONVERTER,5W,5VDC
+K
+F https://www.mornsun-power.com/html/pdf/LS05-13B05R3.html
+$ENDCMP
+#
+#End Doc Library
