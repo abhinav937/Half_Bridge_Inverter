@@ -2259,7 +2259,7 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 3b0dc85d-00ad-4ba9-bab0-87e887f84af8)
   )
-  (text "ISOLATED 5V DC" (at 231.775 19.05 0)
+  (text "ISOLATED 5V DC and 3.3V DC" (at 231.775 19.05 0)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 71559abf-a516-42e0-b3d8-1fedcd80e61d)
   )
