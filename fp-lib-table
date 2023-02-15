@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "2EDF7275KXUMA1")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/2EDF7275K/2EDF7275KXUMA1.mod")(options "")(descr ""))
-  (lib (name "ESMR451VSN221MQ30S")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/220uF 450v/ESMR451VSN221MQ30S.mod")(options "")(descr ""))
-  (lib (name "CGA9P4X7T2W105K250KA")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/1uF 450V/CGA9P4X7T2W105K250KA.mod")(options "")(descr ""))
-  (lib (name "footprint&lib")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/LS05/footprint&lib")(options "")(descr ""))
-)

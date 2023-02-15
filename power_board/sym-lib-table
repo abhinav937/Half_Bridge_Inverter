@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RAC05-05SK")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/LIB_RAC05-05SK/RAC05-05SK.lib")(options "")(descr ""))
+  (lib (name "RAC03-3.3SK")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/LIB_RAC03-3.3SK/RAC03-3.3SK.lib")(options "")(descr ""))
+)

@@ -1,5 +1,6 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
@@ -33,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.44,
-          "height": 3.66,
-          "width": 3.66
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.7
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -120,9 +121,7 @@
       },
       "track_widths": [
         0.0,
-        0.3,
-        1.0,
-        3.0
+        0.3
       ],
       "via_dimensions": [
         {
@@ -133,19 +132,15 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1130300|317500|802615f0-712a-4347-af36-eab877dc86bf|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|1701800|876300|fc1196c8-3279-4246-bc8a-a639d64ad12f|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|2120900|539750|6d57e337-c79b-4943-b3eb-f278942e96d1|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|2127250|387350|fbf50af7-fe40-47c3-aad4-effae7c4ef75|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -354,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RnD_6th_sem.kicad_pro",
+    "filename": "power_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,7 +375,9 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -388,7 +385,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "power_board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -433,7 +430,7 @@
   },
   "sheets": [
     [
-      "e0db39ed-81d4-46dc-8309-08feb30c928c",
+      "a03e037d-5af1-4f4d-a432-bd76004718e1",
       ""
     ]
   ],

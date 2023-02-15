@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "2EDF7275KXUMA1")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/2EDF7275K/2EDF7275KXUMA1.lib")(options "")(descr ""))
-  (lib (name "LS05-13B05R3")(type "KiCad")(uri "${KIPRJMOD}/Footprints&symbols/LS05/footprint&lib/LS05-13B05R3.kicad_sym")(options "")(descr ""))
-)
