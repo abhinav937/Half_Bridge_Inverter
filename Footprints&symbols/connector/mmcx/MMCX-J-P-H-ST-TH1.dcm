@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMCX-J-P-H-ST-TH1
+D Samtec 50 Straight Through Hole MMCX Connector, jack, Solder Termination, 0  6GHz, Coaxial
+K
+F http://suddendocs.samtec.com/prints/mmcx-j-p-x-st-th1-mkt.pdf
+$ENDCMP
+#
+#End Doc Library
