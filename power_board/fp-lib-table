@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "RAC03-3.3SK")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/LIB_RAC03-3.3SK/RAC03-3.3SK.mod")(options "")(descr ""))
   (lib (name "RAC05-05SK")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/LIB_RAC05-05SK/RAC05-05SK.mod")(options "")(descr ""))
+  (lib (name "61201021621")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/connector/FRC/Male/61201021621.mod")(options "")(descr ""))
 )

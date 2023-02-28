@@ -1,3 +1,7 @@
 (sym_lib_table
   (lib (name "MMCX-J-P-H-ST-TH1")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/connector/mmcx/MMCX-J-P-H-ST-TH1.lib")(options "")(descr ""))
+  (lib (name "2EDF7275KXUMA1")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/2EDF7275K/2EDF7275KXUMA1.lib")(options "")(descr ""))
+  (lib (name "CGA9P4X7T2W105K250KA")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/1uF 450V/CGA9P4X7T2W105K250KA.lib")(options "")(descr ""))
+  (lib (name "ESMR451VSN221MQ30S")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/220uF 450v/ESMR451VSN221MQ30S.lib")(options "")(descr ""))
+  (lib (name "WSLP3921L1000FEA")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Current sense resistor/WSLP3921L1000FEA.lib")(options "")(descr ""))
 )
