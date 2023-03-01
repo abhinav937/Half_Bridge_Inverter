@@ -1,8 +1,8 @@
 (fp_lib_table
   (lib (name "MMCX-J-P-H-ST-TH1")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/connector/mmcx/MMCX-J-P-H-ST-TH1.mod")(options "")(descr ""))
   (lib (name "CGA9P4X7T2W105K250KA")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/1uF 450V/CGA9P4X7T2W105K250KA.mod")(options "")(descr ""))
-  (lib (name "ESMR451VSN221MQ30S")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/220uF 450v/ESMR451VSN221MQ30S.mod")(options "")(descr ""))
   (lib (name "WSLP3921L1000FEA")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Current sense resistor/WSLP3921L1000FEA.mod")(options "")(descr ""))
   (lib (name "61201021621")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/connector/FRC/Male/61201021621.mod")(options "")(descr ""))
   (lib (name "2EDF7275K")(type "Eagle")(uri "${KIPRJMOD}/Footprints&symbols/2EDF7275K/2EDF7275K.lbr")(options "")(descr ""))
+  (lib (name "EKXL451ELL101MM30S")(type "Legacy")(uri "${KIPRJMOD}/Footprints&symbols/Capacitor/220uF 450v/EKXL451ELL101MM30S.mod")(options "")(descr ""))
 )
