@@ -1428,6 +1428,8 @@
     (uuid fd8180cb-c4ed-407c-a3a9-edf82565bc6b)
   )
 
+  (no_connect (at 121.285 37.465) (uuid 39854bb9-583b-4ba1-b295-c55b915b6276))
+
   (wire (pts (xy 98.425 130.175) (xy 101.6 130.175))
     (stroke (width 0) (type default))
     (uuid 03c1bf49-aaaa-47d8-a473-bf123378780d)
@@ -1456,10 +1458,6 @@
   (wire (pts (xy 45.085 90.17) (xy 45.085 91.44))
     (stroke (width 0) (type default))
     (uuid 0c9fd9f2-4161-4373-8e8b-982178c8863e)
-  )
-  (wire (pts (xy 97.155 37.465) (xy 121.285 37.465))
-    (stroke (width 0) (type default))
-    (uuid 1087ab49-7c6b-4cf3-ae9b-9da112d919ef)
   )
   (wire (pts (xy 183.515 35.56) (xy 183.515 37.465))
     (stroke (width 0) (type default))
@@ -2305,11 +2303,6 @@
     (uuid ffbf9b26-9702-4b41-9aef-7dcf5e851587)
   )
 
-  (text "Test points: \n1. for both current sense resistors\n2. High side gan, between them, low side of gan\n"
-    (at 221.615 149.225 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 07089bb7-c0b8-41c5-acfa-32078d5c3e93)
-  )
   (text "LEDs" (at 31.75 69.215 0)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 3b0dc85d-00ad-4ba9-bab0-87e887f84af8)
