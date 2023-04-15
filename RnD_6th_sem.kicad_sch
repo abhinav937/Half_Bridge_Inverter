@@ -1247,7 +1247,6 @@
     )
   )
 
-
   (junction (at 183.515 26.035) (diameter 0) (color 0 0 0 0)
     (uuid 0012491e-6a0e-4ba6-8659-7211cacfea0f)
   )
@@ -3246,7 +3245,7 @@
     (property "Reference" "C13" (at 38.735 32.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 38.735 27.305 0)
+    (property "Value" "0.1n" (at 38.735 27.305 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 38.4302 26.035 0)
@@ -3528,7 +3527,7 @@
     (property "Reference" "C14" (at 38.735 45.085 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 38.735 50.165 0)
+    (property "Value" "0.1n" (at 38.735 50.165 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 38.4302 51.435 0)

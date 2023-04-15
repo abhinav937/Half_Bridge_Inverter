@@ -5,6 +5,10 @@
   )
 
   (paper "A4")
+  (title_block
+    (comment 4 "AISLER Project ID: LAREALUL")
+  )
+
   (layers
     (0 "F.Cu" mixed)
     (31 "B.Cu" mixed)
@@ -204,7 +208,7 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp cd3ee05c-d12a-4331-b354-a697f5252db3))
     (fp_line (start 5.87 3.895) (end 3.965 3.895)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp bab8606c-a594-4cd9-ba93-925b417b1b42))
-    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.079114)
+    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.07911392405)
       (net 1 "Net-(J1-Pin_1)") (pinfunction "Pin_1") (pintype "passive") (tstamp b7e8008c-600a-4556-9eba-aa72a6472b32))
     (pad "2" thru_hole oval (at 3.96 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(J1-Pin_2)") (pinfunction "Pin_2") (pintype "passive") (tstamp f5644455-606d-4a95-ba23-744940a40972))
@@ -979,11 +983,11 @@
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJDZW50dXJ5IEdvdGhpYyIsICJIZWlnaHRDdHJsIjogIjEiLCAiTGF5ZXJDb21ib0JveCI6ICJGLlNpbGtTIiwgIk11bHRpTGluZVRleHQiOiAiUG93ZXIgYm9hcmQiLCAiUGFkZGluZ0JvdHRvbUN0cmwiOiAiNSIsICJQYWRkaW5nTGVmdEN0cmwiOiAiNSIsICJQYWRkaW5nUmlnaHRDdHJsIjogIjUiLCAiUGFkZGluZ1RvcEN0cmwiOiAiNSIsICJXaWR0aEN0cmwiOiAiIn0=")
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-640AA5A5" (at 0 -3.974042) (layer "F.SilkS") hide
-        (effects (font (size 0 0)))
+        (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 3428544d-2617-497d-abc1-d16dfee75326)
     )
     (fp_text value "G***" (at 0 3.974042) (layer "F.SilkS") hide
-        (effects (font (size 0 0)))
+        (effects (font (size 0 0) (thickness 0.15)))
       (tstamp 29952413-843e-4271-bd65-9a09810990cb)
     )
     (fp_poly
@@ -4497,7 +4501,7 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp de347d3b-98d7-414f-9100-bf85ea9f5e23))
     (fp_line (start 5.87 3.895) (end 3.965 3.895)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp fb2c3eb3-7596-4fef-95e7-f3e6740ba073))
-    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.079114)
+    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.07911392405)
       (net 3 "Net-(J2-Pin_1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 7753ebc5-2fae-4fd3-a696-aebde8f8d05a))
     (pad "2" thru_hole oval (at 3.96 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(J2-Pin_2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 8493d4d2-5642-4683-a202-c172ba2bae80))
@@ -6158,7 +6162,7 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 91ca2766-5159-4ac2-b44e-b543b40072ad))
     (fp_line (start 5.87 3.895) (end 3.965 3.895)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b7f2706e-9189-4323-af85-0b3baf7a4617))
-    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.079114)
+    (pad "1" thru_hole roundrect (at 0 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.07911392405)
       (net 5 "Net-(J3-Pin_1)") (pinfunction "Pin_1") (pintype "passive") (tstamp e08e0185-8a5f-4f1b-abcf-1d4b78e1d1e4))
     (pad "2" thru_hole oval (at 3.96 0 180) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 6 "Net-(J3-Pin_2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 7e350db4-2201-4505-9fb1-406442b71d4f))
