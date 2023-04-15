@@ -1,1 +1,1 @@
-# RnD_6th_sem
+In old commits, rename the main folder to open the KiCad files
