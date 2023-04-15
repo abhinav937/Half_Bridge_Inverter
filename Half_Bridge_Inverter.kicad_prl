@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "RnD_6th_sem.kicad_prl",
+    "filename": "Half_Bridge_Inverter.kicad_prl",
     "version": 3
   },
   "project": {
